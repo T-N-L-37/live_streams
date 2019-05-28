@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : _nameless.2bb.077d.6e50 {
- stream_data: 198
+ stream_data: 226
  stream_data[0]: "http://str0.creacast.com/radio_vinci_autoroutes_6|Radio Vinci Autoroutes - Zone Alpes Provence|Infomation|FR|128|0"
  stream_data[1]: "http://broadcast.infomaniak.net/virageradio-high.mp3|Virage Lyon|Adult contemporary|FR|128|0"
  stream_data[2]: "http://broadcast.infomaniak.ch/ouifm-high.mp3|Oui FM|Musique|FR|128|0"
@@ -200,6 +200,35 @@ live_stream_def : _nameless.2bb.077d.6e50 {
  stream_data[195]: "http://str0.creacast.com/frequence_verte_2|Fréquence Verte|Musique|FR|128|0"
  stream_data[196]: "http://92.175.228.15:8000/stream.mp3|Fugi FM|Musique|FR|128|0"
  stream_data[197]: "http://fusionfm.ice.infomaniak.ch:8000/fusionfm-192.mp3|Fusion FM|Musique|FR|128|0"
+ stream_data[198]: "https://listen.radioking.com/radio/15684/stream/29075|Galaxie|Musique|FR|128|0"
+ stream_data[199]: "http://stream.generation-fm.com:7000/;|Génération FM|Musique|FR|128|0"
+ stream_data[200]: "http://mediam.streamakaci.com/goldfm.mp3|Gold FM|Musique|FR|128|0"
+ stream_data[201]: "http://streaming.aorus.fr:8200/;|Graffic|Musique|FR|128|0"
+ stream_data[202]: "http://80.82.229.202/graffiti.mp3|Graffiti Urban Radio|Musique|FR|128|0"
+ stream_data[203]: "http://109.238.10.2:8000/grafhit.mp3|Graf'Hit|Musique|FR|128|0"
+ stream_data[204]: "http://92.243.28.151:8006|Graffiti's|Musique|FR|128|0"
+ stream_data[205]: "http://grandsudfm.ice.infomaniak.ch/grandsudfm-128.mp3|Grand Sud FM|Musique|FR|128|0"
+ stream_data[206]: "http://manager2.streaming-ingenierie.fr:8058/stream/1/|Grimaldi FM|Musique|FR|128|0"
+ stream_data[207]: "http://heberg.radioludo.com:8007/stream|Gure Irratia|Musique|FR|128|0"
+ stream_data[208]: "http://vps443190.ovh.net:8000/h2oradio.mp3|H2O Radio|Musique|FR|128|0"
+ stream_data[209]: "http://213.246.51.78:9290/;stream.mp3|Hag' FM|Musique|FR|128|0"
+ stream_data[210]: "http://webradio.netfinity.fr:8000/handifm|Handi FM|Musique|FR|128|0"
+ stream_data[211]: "https://happyfm.ice.infomaniak.ch/happyfm-128.mp3|Happy FM|Musique|FR|128|0"
+ stream_data[212]: "http://helenefm.ice.infomaniak.ch/helenefm-high.mp3|Hélène FM|Musique|FR|128|0"
+ stream_data[213]: "http://streamlive.syndicationradio.fr:8072/;|Hit FM Radio|Musique|FR|128|0"
+ stream_data[214]: "http://broadcast.infomaniak.ch/hitwest-high.mp3|Hit West|Musique|FR|128|0"
+ stream_data[215]: "http://radio.rim952.fr:8000/stream.mp3|Ici-et-Maintenant|Musique|FR|128|0"
+ stream_data[216]: "http://live.idfm98.fr:8000/idfm2|IDFM|Musique|FR|128|0"
+ stream_data[217]: "http://imagine.net-radio.fr/imagine-128.mp3|Imagine Briançon|Musique|FR|128|0"
+ stream_data[218]: "http://imagine.net-radio.fr:9004/;stream/1|Imagine Gap|Musique|FR|128|0"
+ stream_data[219]: "http://impactfm.ice.infomaniak.ch/impactfm-128.mp3|Impact FM|Musique|FR|128|0"
+ stream_data[220]: "http://live.francra.org:8000/InfoRC|Info RC|Musique|FR|128|0"
+ stream_data[221]: "http://www.hosting-serv.com:9500/radioinside.mp3|Inside|Musique|FR|128|0"
+ stream_data[222]: "http://horizonradio-arras.ice.infomaniak.ch/horizonradio-arras-128|Horizon - Arras|Musique|FR|128|0"
+ stream_data[223]: "http://horizonradio-bethunelens.ice.infomaniak.ch/horizonradio-bethunelens-128|Horizon - Lens/Béthune|Musique|FR|128|0"
+ stream_data[224]: "http://horizonlaradiolibre.ice.infomaniak.ch/horizonlaradiolibre-128.mp3|Horizon FM|Musique|FR|128|0"
+ stream_data[225]: "http://heberg.radioludo.com:8007/stream2|Irulegiko Irratia|Musique|FR|128|0"
+ stream_data[226]: "http://80.13.146.243:8000/;stream.mp3|Isabelle FM|Musique|FR|128|0"
 }
 
 }
