@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : _nameless.2bb.077d.6e50 {
- stream_data: 35
+ stream_data: 198
  stream_data[0]: "http://str0.creacast.com/radio_vinci_autoroutes_6|Radio Vinci Autoroutes - Zone Alpes Provence|Infomation|FR|128|0"
  stream_data[1]: "http://broadcast.infomaniak.net/virageradio-high.mp3|Virage Lyon|Adult contemporary|FR|128|0"
  stream_data[2]: "http://broadcast.infomaniak.ch/ouifm-high.mp3|Oui FM|Musique|FR|128|0"
