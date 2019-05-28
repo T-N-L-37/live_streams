@@ -1,5 +1,5 @@
 # live_streams
-Radio Français de Euro Truck Simulator 2 T-N-L-37 !
+Radio Français pour Euro Truck Simulator 2 T-N-L-37 !
 
 Salut les routiers de Euro Truck Simulator 2 toute les radios de France sont dans le fichier live_streams.sii si cela vous intéresse je vous laisse le télécharger et de l'ajouter dans Documents\Euro Truck Simulator 2. 
 
