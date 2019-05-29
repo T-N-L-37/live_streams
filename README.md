@@ -5,7 +5,7 @@ Salut les routiers de Euro Truck Simulator 2 toute les radios de France sont dan
 
   
 
-si vous voulez nous contactez notre discord: https://discord.gg/MSfHWrd 
+si vous voulez nous contactez pour ajouter votre radio préférée ou autre notre discord: https://discord.gg/MSfHWrd 
 
  Merci de respecter le temp de travail que sa ma pris pour tester et ajouter les radios fonctionnel sur le jeux. 
 
